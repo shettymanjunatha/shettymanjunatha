@@ -38,4 +38,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shettymanjunatha&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :fire: Rewards :
-https://drive.google.com/drive/folders/12TK5rFyYb2wU8o0tknYSD_7KDwau8MYR
+
+
+<div>
+  <a href="https://drive.google.com/drive/folders/12TK5rFyYb2wU8o0tknYSD_7KDwau8MYR" target="_blank">
+    <img alt="Drive" src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/128/Google-Drive-icon.png" />
+  </a>
+</div>
+
