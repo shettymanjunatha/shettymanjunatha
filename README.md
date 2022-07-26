@@ -29,6 +29,17 @@
 
 ---
 
+###  Rewards :
+
+
+<div>
+  <a href="https://drive.google.com/drive/folders/12TK5rFyYb2wU8o0tknYSD_7KDwau8MYR" target="_blank">
+    <img alt="Drive" src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/32/Google-Drive-icon.png" />
+  </a>
+</div>
+
+---
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shettymanjunatha&theme=bear&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&sideLabels=DD2727)](https://git.io/streak-stats)
@@ -37,12 +48,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shettymanjunatha&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### :fire: Rewards :
 
-
-<div>
-  <a href="https://drive.google.com/drive/folders/12TK5rFyYb2wU8o0tknYSD_7KDwau8MYR" target="_blank">
-    <img alt="Drive" src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/32/Google-Drive-icon.png" />
-  </a>
-</div>
 
