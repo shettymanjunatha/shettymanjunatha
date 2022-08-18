@@ -50,6 +50,7 @@
 [![](https://github-readme-streak-stats.herokuapp.com/?user=shettymanjunatha&theme=tokyonight&hide_border=true)](https://github.com/shettymanjunatha)
 
 </div>
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shettymanjunatha&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
