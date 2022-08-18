@@ -42,8 +42,14 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shettymanjunatha&theme=bear&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&sideLabels=DD2727)](https://git.io/streak-stats)
+<div align="center">
 
+<h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=shettymanjunatha&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/NavjotKaurSandhu)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=shettymanjunatha&theme=tokyonight&hide_border=true)](https://github.com/shettymanjunatha)
+
+</div>
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shettymanjunatha&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
